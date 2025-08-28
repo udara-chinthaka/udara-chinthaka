@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @udara-chinthaka
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning CICD
+- 🌱 I’m currently learning Java Spring, Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
